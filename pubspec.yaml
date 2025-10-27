@@ -4,7 +4,7 @@ version: 0.2.4
 repository: https://github.com/vieolo/flutter_build_pipe
 
 environment:
-  sdk: ^3.8.1
+  sdk: '>=3.3.4 <4.0.0'
 
 # Add regular dependencies here.
 dependencies:
